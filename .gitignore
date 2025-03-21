@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Archivos que podrian ser una mejor opcion de codificacion
+lib/wrapper2.dart
+
